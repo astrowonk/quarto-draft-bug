@@ -1,0 +1,28 @@
+project:
+  type: website
+
+execute:
+  freeze: auto
+
+website:
+  title: "A Web site"
+  open-graph: true
+  site-url: https://marcoshuerta.com/
+  description: "Data is Singular"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: posts/index.qmd
+        text: Posts
+
+
+format:
+  html:
+    theme: spacelab
+    css: styles.css
+    toc: true
+    linkcolor: "#326891"
+
+
+

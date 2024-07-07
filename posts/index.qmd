@@ -1,0 +1,11 @@
+---
+title: "Posts"
+description: Posts
+
+listing:
+  contents: .
+  sort: "date desc"
+  feed:
+    type: 'partial'
+
+---
