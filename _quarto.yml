@@ -7,7 +7,7 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - posts/index.qmd
+      - posts.qmd
 
 format:
   html:
