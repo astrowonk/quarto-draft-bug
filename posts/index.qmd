@@ -4,8 +4,7 @@ description: Posts
 
 listing:
   contents: .
-  sort: "date desc"
-  feed:
-    type: 'partial'
+  type: default
+
 
 ---

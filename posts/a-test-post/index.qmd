@@ -1,15 +1,12 @@
 ---
-date: '2024-07-06T20:47:56-04:00'
+date: '2024-07-09T20:47:56-04:00'
 draft: true
-title: New post
+title: post
 ---
 
 Will this show something?
-
-This works why won't my web site...
-
-test test test test 
-
 Adding stuff
 
-More words. Now there's nothing there.
+More words. Wording. Test.
+
+Test. Test. Test.

@@ -1,28 +1,16 @@
 project:
   type: website
 
-execute:
-  freeze: auto
-
 website:
-  title: "A Web site"
-  open-graph: true
-  site-url: https://marcoshuerta.com/
-  description: "Data is Singular"
+  title: "today"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - href: posts/index.qmd
-        text: Posts
-
+      - posts/index.qmd
 
 format:
   html:
-    theme: spacelab
+    theme: cosmo
     css: styles.css
     toc: true
-    linkcolor: "#326891"
-
-
-
